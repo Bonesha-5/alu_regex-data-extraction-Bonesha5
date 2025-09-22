@@ -10,7 +10,7 @@ The script can extract:
 
 2. URLs (e.g., https://www.example.com)
 
-3. Phone numbers (various formats like (123) 456-7890, 123-456-7890, (079) 176-(1041))
+3. Phone numbers (various formats like (123) 456-7890, 123-456-7890, 079.176.1041
 
 4. Currency amounts (e.g., $19.99, $1,234.56)
 
