@@ -17,6 +17,6 @@ Time: \b(?:(?:1[0-2]|0?[1-9]):(?:[0-5][0-9])\s?(?:AM|PM)|(?:[01]?[0-9]|2[0-3]):[
 HTML Tags: <[^>]+>
 Hashtags: #\w+
 Usage
-git clone https://github.com/EKIRABO/alu_regex-data-extraction-EKIRABO.git
+git clone https://github.com/Bonesha-5/alu_regex-data-extraction-EKIRABO.git
 cd alu_regex-data-extraction-EKIRABO
 python regex.py or just run the file normally.
